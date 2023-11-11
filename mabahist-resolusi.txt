@@ -1,0 +1,5 @@
+Mabahist Resolusi : 
+- Lulus S2
+- Menggunakan GIT dan GITHUB
+- Membuat Web LARAVEL
+- Membuat Web React Js
