@@ -3,3 +3,4 @@ Mabahist Resolusi :
 - Menggunakan GIT dan GITHUB
 - Membuat Web LARAVEL
 - Membuat Web React Js
+- Membua Web Portofolio
